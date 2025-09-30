@@ -5,7 +5,10 @@
     font-size: 14px;
     color: #6c757d;
     width: 100vw;
-    height: 20vh;
+    height: 10vh;
+    position: fixed;
+    bottom: 0;
+    background-color: #6c757d;
     }
 .footer a {
     color: #007bff;
