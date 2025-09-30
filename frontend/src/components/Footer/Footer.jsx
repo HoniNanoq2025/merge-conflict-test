@@ -11,7 +11,8 @@ export default function Footer() {
         rel="noopener noreferrer"
         className={styles.link}
       >
-        <p className={styles.text}>© 2024 My Company BØH</p>
+        <p className={styles.text}>© 2024 My Company</p>
+        <p>et eller andet</p>
       </a>
     </footer>
   );
